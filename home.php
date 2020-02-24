@@ -30,7 +30,7 @@
 	  		</div>
         <ul class="list-unstyled components mb-5">
           <li class="active">
-            <a href="#"><span class="fa fa-home mr-3 active"></span> Home</a>
+            <a href="#"><span class="fa fa-home mr-3"></span> Home</a>
           </li>
           <li>
               <a href="#"><span class="fa fa-download mr-3 notif"><small class="d-flex align-items-center justify-content-center">5</small></span> Download</a>
