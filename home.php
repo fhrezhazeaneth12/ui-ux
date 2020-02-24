@@ -1,4 +1,8 @@
-<!doctype html>
+<?php 
+
+ ?>
+
+ <!doctype html>
 <html lang="en">
   <head>
   	<title>Aplikasi Ui/Ux</title>
@@ -44,7 +48,7 @@
             <a href="#"><span class="fa fa-support mr-3"></span> Support</a>
           </li>
           <li>
-            <a href="#"><span class="fa fa-sign-out mr-3"></span> Sign Out</a>
+            <a href="index.php"><span class="fa fa-sign-out mr-3"></span> Sign Out</a>
           </li>
         </ul>
 
@@ -61,6 +65,6 @@
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="js/main.js"></script>
+    <script src="js/main1.js"></script>
   </body>
 </html>

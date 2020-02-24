@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+<?php 
+
+ ?>
+
+ <!DOCTYPE html>
 <html lang="en">
 <head>
 	<title>Login V15</title>
@@ -32,13 +36,13 @@
 	<div class="limiter">
 		<div class="container-login100">
 			<div class="wrap-login100">
-				<div class="login100-form-title" style="background-image: url(images/bg-01.jpg);">
+				<div class="login100-form-title" style="background-image: url(images/bg_1.jpg);">
 					<span class="login100-form-title-1">
 						Sign In
 					</span>
 				</div>
 
-				<form class="login100-form validate-form">
+				<form class="login100-form validate-form" action="home.php">
 					<div class="wrap-input100 validate-input m-b-26" data-validate="Username is required">
 						<span class="label-input100">Username</span>
 						<input class="input100" type="text" name="username" placeholder="Enter username">
